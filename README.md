@@ -1,5 +1,7 @@
 # justin-litabot
 
+[![Build Status](http://104.155.176.26:8080/job/litabot/badge/icon)](http://104.155.176.26:8080/job/litabot/)
+
 This is a Lita bot that runs in Docker for Slack.
 
 ## Transcrypt
